@@ -1,0 +1,15 @@
+C:\dev\src\Deasafiados_Variaveis\Exemplo7\bin\Debug\net6.0\Exemplo7.exe
+C:\dev\src\Deasafiados_Variaveis\Exemplo7\bin\Debug\net6.0\Exemplo7.deps.json
+C:\dev\src\Deasafiados_Variaveis\Exemplo7\bin\Debug\net6.0\Exemplo7.runtimeconfig.json
+C:\dev\src\Deasafiados_Variaveis\Exemplo7\bin\Debug\net6.0\Exemplo7.dll
+C:\dev\src\Deasafiados_Variaveis\Exemplo7\bin\Debug\net6.0\Exemplo7.pdb
+C:\dev\src\Deasafiados_Variaveis\Exemplo7\obj\Debug\net6.0\Exemplo7.csproj.AssemblyReference.cache
+C:\dev\src\Deasafiados_Variaveis\Exemplo7\obj\Debug\net6.0\Exemplo7.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\src\Deasafiados_Variaveis\Exemplo7\obj\Debug\net6.0\Exemplo7.AssemblyInfoInputs.cache
+C:\dev\src\Deasafiados_Variaveis\Exemplo7\obj\Debug\net6.0\Exemplo7.AssemblyInfo.cs
+C:\dev\src\Deasafiados_Variaveis\Exemplo7\obj\Debug\net6.0\Exemplo7.csproj.CoreCompileInputs.cache
+C:\dev\src\Deasafiados_Variaveis\Exemplo7\obj\Debug\net6.0\Exemplo7.dll
+C:\dev\src\Deasafiados_Variaveis\Exemplo7\obj\Debug\net6.0\refint\Exemplo7.dll
+C:\dev\src\Deasafiados_Variaveis\Exemplo7\obj\Debug\net6.0\Exemplo7.pdb
+C:\dev\src\Deasafiados_Variaveis\Exemplo7\obj\Debug\net6.0\Exemplo7.genruntimeconfig.cache
+C:\dev\src\Deasafiados_Variaveis\Exemplo7\obj\Debug\net6.0\ref\Exemplo7.dll

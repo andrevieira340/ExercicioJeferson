@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Deasafiados_Variaveis/1.0.0": {
+        "runtime": {
+          "Deasafiados_Variaveis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deasafiados_Variaveis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

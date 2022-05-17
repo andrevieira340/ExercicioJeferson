@@ -1,0 +1,12 @@
+﻿int aluno1, aluno2, aluno3, aluno4, mediaAlunoCalc;
+Console.WriteLine("Qual a idade do aluno1?");
+aluno1 = int.Parse(Console.ReadLine());
+Console.WriteLine("Qual a idade do aluno2?");
+aluno2 = int.Parse(Console.ReadLine());
+Console.WriteLine("Qual a idade do aluno3?");
+aluno3 = int.Parse(Console.ReadLine());
+Console.WriteLine("Qual a idade do aluno4?");
+aluno4 = int.Parse(Console.ReadLine());
+mediaAlunoCalc = (aluno1 + aluno2 + aluno3 + aluno4);
+mediaAlunoCalc = mediaAlunoCalc / 4;
+Console.WriteLine("A idade media dos alunos: " + mediaAlunoCalc);

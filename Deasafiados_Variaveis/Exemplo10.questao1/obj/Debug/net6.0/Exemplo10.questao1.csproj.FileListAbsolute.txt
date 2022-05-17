@@ -1,0 +1,15 @@
+C:\dev\src\Deasafiados_Variaveis\Exemplo10.questao1\bin\Debug\net6.0\Exemplo10.questao1.exe
+C:\dev\src\Deasafiados_Variaveis\Exemplo10.questao1\bin\Debug\net6.0\Exemplo10.questao1.deps.json
+C:\dev\src\Deasafiados_Variaveis\Exemplo10.questao1\bin\Debug\net6.0\Exemplo10.questao1.runtimeconfig.json
+C:\dev\src\Deasafiados_Variaveis\Exemplo10.questao1\bin\Debug\net6.0\Exemplo10.questao1.dll
+C:\dev\src\Deasafiados_Variaveis\Exemplo10.questao1\bin\Debug\net6.0\Exemplo10.questao1.pdb
+C:\dev\src\Deasafiados_Variaveis\Exemplo10.questao1\obj\Debug\net6.0\Exemplo10.questao1.csproj.AssemblyReference.cache
+C:\dev\src\Deasafiados_Variaveis\Exemplo10.questao1\obj\Debug\net6.0\Exemplo10.questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\src\Deasafiados_Variaveis\Exemplo10.questao1\obj\Debug\net6.0\Exemplo10.questao1.AssemblyInfoInputs.cache
+C:\dev\src\Deasafiados_Variaveis\Exemplo10.questao1\obj\Debug\net6.0\Exemplo10.questao1.AssemblyInfo.cs
+C:\dev\src\Deasafiados_Variaveis\Exemplo10.questao1\obj\Debug\net6.0\Exemplo10.questao1.csproj.CoreCompileInputs.cache
+C:\dev\src\Deasafiados_Variaveis\Exemplo10.questao1\obj\Debug\net6.0\Exemplo10.questao1.dll
+C:\dev\src\Deasafiados_Variaveis\Exemplo10.questao1\obj\Debug\net6.0\refint\Exemplo10.questao1.dll
+C:\dev\src\Deasafiados_Variaveis\Exemplo10.questao1\obj\Debug\net6.0\Exemplo10.questao1.pdb
+C:\dev\src\Deasafiados_Variaveis\Exemplo10.questao1\obj\Debug\net6.0\Exemplo10.questao1.genruntimeconfig.cache
+C:\dev\src\Deasafiados_Variaveis\Exemplo10.questao1\obj\Debug\net6.0\ref\Exemplo10.questao1.dll

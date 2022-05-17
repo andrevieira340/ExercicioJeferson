@@ -1,0 +1,15 @@
+C:\dev\src\Deasafiados_Variaveis\Deasafiados_Variaveis\obj\Debug\net6.0\Deasafiados_Variaveis.csproj.AssemblyReference.cache
+C:\dev\src\Deasafiados_Variaveis\Deasafiados_Variaveis\obj\Debug\net6.0\Deasafiados_Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\src\Deasafiados_Variaveis\Deasafiados_Variaveis\obj\Debug\net6.0\Deasafiados_Variaveis.AssemblyInfoInputs.cache
+C:\dev\src\Deasafiados_Variaveis\Deasafiados_Variaveis\obj\Debug\net6.0\Deasafiados_Variaveis.AssemblyInfo.cs
+C:\dev\src\Deasafiados_Variaveis\Deasafiados_Variaveis\obj\Debug\net6.0\Deasafiados_Variaveis.csproj.CoreCompileInputs.cache
+C:\dev\src\Deasafiados_Variaveis\Deasafiados_Variaveis\bin\Debug\net6.0\Deasafiados_Variaveis.exe
+C:\dev\src\Deasafiados_Variaveis\Deasafiados_Variaveis\bin\Debug\net6.0\Deasafiados_Variaveis.deps.json
+C:\dev\src\Deasafiados_Variaveis\Deasafiados_Variaveis\bin\Debug\net6.0\Deasafiados_Variaveis.runtimeconfig.json
+C:\dev\src\Deasafiados_Variaveis\Deasafiados_Variaveis\bin\Debug\net6.0\Deasafiados_Variaveis.dll
+C:\dev\src\Deasafiados_Variaveis\Deasafiados_Variaveis\bin\Debug\net6.0\Deasafiados_Variaveis.pdb
+C:\dev\src\Deasafiados_Variaveis\Deasafiados_Variaveis\obj\Debug\net6.0\Deasafiados_Variaveis.dll
+C:\dev\src\Deasafiados_Variaveis\Deasafiados_Variaveis\obj\Debug\net6.0\refint\Deasafiados_Variaveis.dll
+C:\dev\src\Deasafiados_Variaveis\Deasafiados_Variaveis\obj\Debug\net6.0\Deasafiados_Variaveis.pdb
+C:\dev\src\Deasafiados_Variaveis\Deasafiados_Variaveis\obj\Debug\net6.0\Deasafiados_Variaveis.genruntimeconfig.cache
+C:\dev\src\Deasafiados_Variaveis\Deasafiados_Variaveis\obj\Debug\net6.0\ref\Deasafiados_Variaveis.dll

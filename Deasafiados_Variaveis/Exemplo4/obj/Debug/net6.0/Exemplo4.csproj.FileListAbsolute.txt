@@ -1,0 +1,15 @@
+C:\dev\src\Deasafiados_Variaveis\Exemplo4\bin\Debug\net6.0\Exemplo4.exe
+C:\dev\src\Deasafiados_Variaveis\Exemplo4\bin\Debug\net6.0\Exemplo4.deps.json
+C:\dev\src\Deasafiados_Variaveis\Exemplo4\bin\Debug\net6.0\Exemplo4.runtimeconfig.json
+C:\dev\src\Deasafiados_Variaveis\Exemplo4\bin\Debug\net6.0\Exemplo4.dll
+C:\dev\src\Deasafiados_Variaveis\Exemplo4\bin\Debug\net6.0\Exemplo4.pdb
+C:\dev\src\Deasafiados_Variaveis\Exemplo4\obj\Debug\net6.0\Exemplo4.csproj.AssemblyReference.cache
+C:\dev\src\Deasafiados_Variaveis\Exemplo4\obj\Debug\net6.0\Exemplo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\src\Deasafiados_Variaveis\Exemplo4\obj\Debug\net6.0\Exemplo4.AssemblyInfoInputs.cache
+C:\dev\src\Deasafiados_Variaveis\Exemplo4\obj\Debug\net6.0\Exemplo4.AssemblyInfo.cs
+C:\dev\src\Deasafiados_Variaveis\Exemplo4\obj\Debug\net6.0\Exemplo4.csproj.CoreCompileInputs.cache
+C:\dev\src\Deasafiados_Variaveis\Exemplo4\obj\Debug\net6.0\Exemplo4.dll
+C:\dev\src\Deasafiados_Variaveis\Exemplo4\obj\Debug\net6.0\refint\Exemplo4.dll
+C:\dev\src\Deasafiados_Variaveis\Exemplo4\obj\Debug\net6.0\Exemplo4.pdb
+C:\dev\src\Deasafiados_Variaveis\Exemplo4\obj\Debug\net6.0\Exemplo4.genruntimeconfig.cache
+C:\dev\src\Deasafiados_Variaveis\Exemplo4\obj\Debug\net6.0\ref\Exemplo4.dll
